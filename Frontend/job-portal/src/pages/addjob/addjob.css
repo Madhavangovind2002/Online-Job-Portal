@@ -1,0 +1,33 @@
+.apply{
+    border: 1px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+    background-color: yellowgreen;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    margin-top: 20px;
+    margin-left: 200px;
+    align-items: center;
+}
+.email{
+    margin-left: 200px;
+}
+.degree{
+    margin-left: 200px;
+}
+.experience{
+    margin-left: 200px;
+}
+.features{
+    margin-left: 200px;
+}
+.button{
+    margin-left: 250px;
+}
+.head{
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+.login {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.lContainer {
+    display: flex;
+    width:350px;
+    flex-direction: column;
+    gap: 10px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+  }
+  
+.lInput{
+    height: 30px;
+    padding: 10px;
+  }
+  
+.lButton {
+    border: none;
+    padding: 10px 20px;
+    background-color: #0071c2;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+  
+.lButton:disabled{
+    background-color: #0071c28c;
+    cursor: not-allowed;
+}
+.para{
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+}
